@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning web devlopment 
 - 🤔 I’m looking for help with javascript
 
-(https://activity-graph.herokuapp.com/graph?username=dhruvsol&theme=xcode)
+[![dhruvraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvsol&theme=xcode)](https://git.io/dhruvsol)

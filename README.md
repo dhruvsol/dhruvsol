@@ -1,5 +1,5 @@
 ## Hi, I am Dhruvraj  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
+<!-- 
 
 <div>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=dhruvsol&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
@@ -7,7 +7,7 @@
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=dhruvsol&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Dhruvraj " alt="Dhruvraj Github stats" />
 <img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
-</div>
+</div> -->
 
 
 

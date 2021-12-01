@@ -4,4 +4,4 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsol&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/streak/?username=dhruvsol&theme=dark" />

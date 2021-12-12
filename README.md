@@ -8,5 +8,7 @@
 
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvsol&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=dhruvsol&theme=github_dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=ffb300"> <br>
+</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvsol&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Dhruvraj  github stats" />

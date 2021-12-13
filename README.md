@@ -2,7 +2,7 @@
 
 
 
-![Solanki (1)](https://user-images.githubusercontent.com/89624156/145698457-8d97f72b-85d0-41b9-b4dd-a88d001d3a75.png)
+<!-- ![Solanki (1)](https://user-images.githubusercontent.com/89624156/145698457-8d97f72b-85d0-41b9-b4dd-a88d001d3a75.png) -->
 
 
 <div align='center'>

@@ -1,7 +1,7 @@
 ## Hi, I am Dhruvraj <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <div align='center'>
-    <img src='./banner.png'/>
+    <img src='./banner2.png'/>
 </div>
 
 <div align='center'>

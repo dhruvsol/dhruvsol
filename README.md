@@ -1,5 +1,7 @@
 ## Hi, I am Dhruvraj  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
+<div align='center'>
+    <img src='./banner.png'/>
+</div>
 
 <div align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=dhruvsol&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376"/>

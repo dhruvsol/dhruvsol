@@ -1,16 +1,10 @@
 
 
-## Hi, I am Dhruvraj <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="1px" height="30px" >
+<h1 align="center">Hey 👋,  I'm Dhruvsol</h1>
+<h4 align="center">Tech nerd playing with random tech. grinding on Ice Staking </h4>
 
-<div align='center'>
-    <img src='./banner2.png'/>
-</div>
 
-<div align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=dhruvsol&theme=xcode&bg_color=151515&area=true&hide_border=true&area_color=60C376&line=60C376&point=60C376"/>
 
-</div>
-<br/>
 
 
 <!--- GITHUB STATS  -->

@@ -1,11 +1,7 @@
-
-
 <h1 align="center">Hey 👋,  I'm Dhruvsol</h1>
 <h4 align="center">Tech nerd playing with random tech. grinding on Ice Staking </h4>
 
-
-
-
+<!--START_SECTION:activity-->
 
 <!--- GITHUB STATS  -->
 <details>

@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋,  I'm Dhruvsol</h1>
-<h4 align="center">Tech nerd experimenting with emerging tech. Grinding on Ice Staking and more!</h4>
+
 
 <!--- GITHUB STATS  -->
 <details>
